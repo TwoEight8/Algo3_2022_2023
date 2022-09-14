@@ -29,8 +29,6 @@ int main ()
     printf("\n");
     printf("%d",divise(12.4));
     printf("\n");
-    printf("%d",soustraction(25,15));
-    printf("\n");
-    printf("%d",soustraction(30,25));
+
     return 0;
 }
